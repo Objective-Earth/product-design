@@ -6,7 +6,7 @@ We have OKR tools for "private companies" (like @betterworks). How about we buil
 [Majority of population is unaware of global problems](https://scholar.google.co.in/scholar?q=Predictors+of+public+climate+change+awareness). In the past, [making population aware of problems has helped solved problems](https://en.wikipedia.org/wiki/Give_up_LPG_subsidy#cite_note-2)  
 
 **WHAT:**  
-Objective.Earth would be a social network, where its main agenda is to align people towards Sustainability Edevelopment Goals.
+Objective.Earth would be a social network, where its main agenda is to align people towards Sustainability Development Goals.
 
 **HOW:**  
 We have OKR tools for "private companies" (like betterworks.com). How about we build an OKR tool that anybody can join? Like a Social Network where people work together on "Objectives of Earth". People can collaborate on "what is the right thing to do". And the ones who do those right things can "get paid".  
