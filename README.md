@@ -22,3 +22,7 @@ OE platform strongly believes in appreciating and rewarding those who are steppi
 -   [Gitbook](https://www.objective.earth/)
 -   [Introduction Video](https://www.youtube.com/watch?v=ySR6TO5KY_o)
 -   [Product design Explained](https://www.youtube.com/watch?v=Sp6isESE4nA)
+
+## Release 1 Roadmap
+
+The following is the list of WHAT we are building in Objective.Earth so that it can solve the problems of our Target Users (following **[UCD](https://www.interaction-design.org/literature/topics/user-centered-design)**). The entire product has been broken down into major chunks termed “Epics”. Each epic contain multiple minor features within it. The product design team at Objective.Earth works on each epic and pushes them out to the engineering team at an average of 1 epic per week.  
