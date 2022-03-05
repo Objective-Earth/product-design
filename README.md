@@ -22,6 +22,7 @@ OE platform strongly believes in appreciating and rewarding those who are steppi
 -   [Gitbook](https://www.objective.earth/)
 -   [Introduction Video](https://www.youtube.com/watch?v=ySR6TO5KY_o)
 -   [Product design Explained](https://www.youtube.com/watch?v=Sp6isESE4nA)
+-   [Motivations behind Architecture](https://smartercodes.sharepoint.com/sites/Objective.Earth/Shared%20Documents/Architecture/Recordings/Motivations%20of%20Architecture%20in%20OE-20220225_120649-Meeting%20Recording.mp4?web=1)
 
 ## Release 1 Roadmap
 
