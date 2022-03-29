@@ -24,6 +24,7 @@ OE platform strongly believes in appreciating and rewarding those who are steppi
 -   [Product design Explained](https://www.youtube.com/watch?v=Sp6isESE4nA)
 -   [Motivations behind Architecture](https://smartercodes.sharepoint.com/sites/Objective.Earth/Shared%20Documents/Architecture/Recordings/Motivations%20of%20Architecture%20in%20OE-20220225_120649-Meeting%20Recording.mp4?web=1)
 -   [Lean Canvas](https://www.figma.com/file/wa6HEk7nhA5xKHb6a6iStg/lean-canvas?node-id=19%3A37)
+-   [Type of Actors and Sequence Diagram](https://www.notion.so/smartercodes/Actors-and-Sequence-Diagram-850eae0b4c344ff9b692d6458b977003)
 
 ## Release 1 Roadmap
 
