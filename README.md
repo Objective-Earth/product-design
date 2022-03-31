@@ -1,9 +1,8 @@
 ## About
 
-[Objective.earth](http://objective.earth/) is a social [OKR tool](https://www.g2.com/categories/objectives-and-key-results-okr) that helps the community to align themselves towards the [17 SDG goals](https://sdgs.un.org/goals). It is also a social network, where the community can talk about "Problems of a region" and "Solutions for those problems". On [Objective.earth](http://objective.earth/), any individual or organization will be able to crowdfund and hire people to solve the problems they care about.
+[Objective.earth](http://objective.earth/) is a social [OKR tool](https://www.g2.com/categories/objectives-and-key-results-okr) that helps the community to align themselves towards the [17 SDG goals](https://sdgs.un.org/goals). It is also a social network, where the community can talk about "Problems of a region" and "Solutions for those problems". On [Objective.earth](http://objective.earth/), any individual or organization will be able to crowdfund and hire people to solve the problems they care about.OE platform strongly believes in appreciating and rewarding those who are stepping forward to the right thing for the earth. Read more [Rewarding DOers..](https://www.objective.earth/whys/rewarding-doers)
 
-OE platform strongly believes in appreciating and rewarding those who are stepping forward to the right thing for the earth. Read more [Rewarding DOers..](https://www.objective.earth/whys/rewarding-doers)
-
+[![](https://github.com/Objective-Earth/product-design/blob/main/introduction%20video.png)](https://youtu.be/ySR6TO5KY_o)
 **We are inspired by**
 
 -   [OKR tools](https://www.g2.com/categories/objectives-and-key-results-okr) : for their data-driven approach e.g, [Lattice](https://lattice.com/), [Weekdone](https://weekdone.com/okr), [Gtmhub](https://gtmhub.com/), [Betterworks](https://www.betterworks.com/)
