@@ -6,7 +6,7 @@
 
 **We are mix of** 
 
--   [OKR tools](https://www.g2.com/categories/objectives-and-key-results-okr) : for their data-driven approach e.g, [Lattice](https://lattice.com/), [Weekdone](https://weekdone.com/okr), [Gtmhub](https://gtmhub.com/), [Betterworks](https://www.betterworks.com/)
+-   [OKR tool](https://www.g2.com/categories/objectives-and-key-results-okr) : for their data-driven approach e.g, [Lattice](https://lattice.com/), [Weekdone](https://weekdone.com/okr), [Gtmhub](https://gtmhub.com/), [Betterworks](https://www.betterworks.com/)
 -   Social Media platform: for easy to use, easy to navigate, community-building tools e.g, [Twitter](https://twitter.com/explore), [Quora](https://www.quora.com/), [Stackoverflow](https://stackoverflow.com/)
 -   Crowdfunding platform: for showing how people can become philanthropists with ease e.g, [Opencollective](https://opencollective.com/), [Kickstarter](https://www.kickstarter.com/?ref=nav), [Globalgiving](https://www.globalgiving.org/)
 
