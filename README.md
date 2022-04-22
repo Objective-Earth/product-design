@@ -26,4 +26,15 @@
 
 ## Release 1 Roadmap
 
-The following is the list of WHAT we are building in Objective.Earth so that it can solve the problems of our Target Users (following **[UCD](https://www.interaction-design.org/literature/topics/user-centered-design)**). The entire product has been broken down into major chunks termed “Epics”. Each epic contain multiple minor features within it. The product design team at Objective.Earth works on each epic and pushes them out to the engineering team at an average of 1 epic per week.  
+The following is the list of WHAT we are building in Objective.Earth so that it can solve the problems of our Target Users (following **[UCD](https://www.interaction-design.org/literature/topics/user-centered-design)**). The entire product has been broken down into major chunks termed “Epics”. Each epic contain multiple minor features within it. The product design team at Objective.Earth works on each epic and pushes them out to the engineering team at an average of 1 epic per week. 
+
+|  **No.** | **Epic Name** | **Epic Explained Issue**
+|--|--|--
+| 1 | Discover Epic | [Link](https://github.com/Objective-Earth/product-design/issues/70)
+|  2 | Problem Page Epic| [Link](https://github.com/Objective-Earth/product-design/issues/71)
+|  3 | Solution Page Epic| [Link](https://github.com/Objective-Earth/product-design/issues/72)
+|  4 | Project Page Epic| [Link](https://github.com/Objective-Earth/product-design/issues/73)
+|  5 | Volunteer Jobs Epic | [Link](https://github.com/Objective-Earth/product-design/issues/74)
+|  6 | Objectives and Keyresults Epic| [Link](https://github.com/Objective-Earth/product-design/issues/75)
+|  7| Donation Epic | [Link](https://github.com/Objective-Earth/product-design/issues/76)
+
