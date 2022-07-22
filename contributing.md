@@ -22,9 +22,26 @@ Check out the Roadmap to see our planned process, and current sprint to see what
 
 ## Ways to Contribute(This section is WIP)
 
-Engg
 Content
-Design
+We are actively looking for contributions from our community. Please find the links of the major tasks below.
+
+Add a Problem Type
+Add a Problem
+Add a Measurement
+Add a Solution
+Add a Solution Type
+Create a Project
+Create a Job
+Upvote/Downvote
+Add Citations
+
+Product Design
+Once a feature has been defined, typically it will be taken on by a product designer. Here, they will produce low fi mocks, get feedback from team and community, and iterate.
+
+Once the main UX flows have been dialed in, present it with annotation in Figma/Adobe XD and update the same in issue, and provide a description, lighting demo and the wireframe link.
+
+Features that are ready for design are tagged ‘Design Needed’. Once a feature has had a reasonably complete visual design it should be tagged as ‘Help Wanted’.
+Engg
 Testing
 Crowdfunding
 Feedback
